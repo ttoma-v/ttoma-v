@@ -1,5 +1,7 @@
 # Tamara Dutka
 Computer Science student at Adam Mickiewicz University in Poznań.<br>Currently focusing on Python, exploring backend development and data processing.<br>Always open to learning new technologies and improving my coding skills.
+
+*Available for Software Engineering internships.*
 ##
 
 ### Toolkit
